@@ -1,4 +1,5 @@
-[
+{
+  "phrases": [
   {
     "es": "¿Qué hiciste el fin de semana pasado?",
     "en": "What did you do last weekend?"
@@ -1500,3 +1501,4 @@
     "en": "I've been cleaning the house all afternoon."
   }
 ]
+}  
