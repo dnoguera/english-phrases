@@ -1,0 +1,8 @@
+{
+    "decks": [
+      { "name": "b1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/b1-fixed.json" },
+      { "name": "b2", "url":  "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/b2.json" },
+      { "name": "c1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/c1.json" },
+      { "name": "c2", "url":  "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/c2.json" }
+    ]
+}
