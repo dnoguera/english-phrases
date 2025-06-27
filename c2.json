@@ -1,4 +1,5 @@
-[
+{
+  "phrases":[
   {
     "es": "Tal fue la indignación pública que la ley fue derogada de inmediato.",
     "en": "Such was the public outcry that the law was promptly repealed."
@@ -1160,3 +1161,4 @@
     "en": "Had the safety protocols been followed, the accident would never have occurred."
   }
 ]
+}
