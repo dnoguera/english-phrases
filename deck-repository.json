@@ -1,7 +1,7 @@
 {
     "decks": [
-      { "name": "A1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/a1.json" },
-      { "name": "A2", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/a2.json" },        
+      { "name": "A1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/a1-fixed.json" },
+      { "name": "A2", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/a2-fixed.json" },        
       { "name": "B1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/b1-fixed.json" },
       { "name": "B2", "url":  "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/b2.json" },
       { "name": "C1", "url": "https://raw.githubusercontent.com/dnoguera/english-phrases/refs/heads/main/c1.json" },
