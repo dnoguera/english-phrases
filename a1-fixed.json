@@ -1,0 +1,1428 @@
+{
+    "phrases": [
+            {
+                "es": "Mi nombre es David.",
+                "en": "My name is David."
+            },
+            {
+                "es": "Tengo treinta años.",
+                "en": "I am thirty years old."
+            },
+            {
+                "es": "Soy de España.",
+                "en": "I am from Spain."
+            },
+            {
+                "es": "Vivo en una ciudad grande.",
+                "en": "I live in a big city."
+            },
+            {
+                "es": "Esta casa es blanca.",
+                "en": "This house is white."
+            },
+            {
+                "es": "Él es mi hermano.",
+                "en": "He is my brother."
+            },
+            {
+                "es": "Ella es mi hermana.",
+                "en": "She is my sister."
+            },
+            {
+                "es": "Son mis padres.",
+                "en": "They are my parents."
+            },
+            {
+                "es": "Tengo un coche rojo.",
+                "en": "I have a red car."
+            },
+            {
+                "es": "Mi coche es nuevo.",
+                "en": "My car is new."
+            },
+            {
+                "es": "Ella tiene un gato negro.",
+                "en": "She has a black cat."
+            },
+            {
+                "es": "Su gato es muy perezoso.",
+                "en": "Her cat is very lazy."
+            },
+            {
+                "es": "¿Eres estudiante?",
+                "en": "Are you a student?"
+            },
+            {
+                "es": "Sí, soy estudiante.",
+                "en": "Yes, I am a student."
+            },
+            {
+                "es": "No, no soy profesor.",
+                "en": "No, I am not a teacher."
+            },
+            {
+                "es": "¿Dónde está el baño?",
+                "en": "Where is the bathroom?"
+            },
+            {
+                "es": "El baño está a la derecha.",
+                "en": "The bathroom is on the right."
+            },
+            {
+                "es": "Me gusta el café.",
+                "en": "I like coffee."
+            },
+            {
+                "es": "No me gusta el té.",
+                "en": "I don't like tea."
+            },
+            {
+                "es": "Bebo agua todos los días.",
+                "en": "I drink water every day."
+            },
+            {
+                "es": "¿Qué hora es?",
+                "en": "What time is it?"
+            },
+            {
+                "es": "Son las diez en punto.",
+                "en": "It's ten o'clock."
+            },
+            {
+                "es": "Me levanto a las siete.",
+                "en": "I get up at seven."
+            },
+            {
+                "es": "Desayuno a las ocho.",
+                "en": "I have breakfast at eight."
+            },
+            {
+                "es": "Voy a trabajar en autobús.",
+                "en": "I go to work by bus."
+            },
+            {
+                "es": "Mi trabajo es interesante.",
+                "en": "My job is interesting."
+            },
+            {
+                "es": "Hoy hace sol.",
+                "en": "It is sunny today."
+            },
+            {
+                "es": "Ayer llovió.",
+                "en": "It rained yesterday."
+            },
+            {
+                "es": "Hace frío fuera.",
+                "en": "It is cold outside."
+            },
+            {
+                "es": "Llevo un abrigo azul.",
+                "en": "I am wearing a blue coat."
+            },
+            {
+                "es": "Mis zapatos son negros.",
+                "en": "My shoes are black."
+            },
+            {
+                "es": "Necesito zapatos nuevos.",
+                "en": "I need new shoes."
+            },
+            {
+                "es": "¿Puedes ayudarme?",
+                "en": "Can you help me?"
+            },
+            {
+                "es": "Sí, puedo ayudarte.",
+                "en": "Yes, I can help you."
+            },
+            {
+                "es": "No puedo hablar francés.",
+                "en": "I can't speak French."
+            },
+            {
+                "es": "Hablo un poco de inglés.",
+                "en": "I speak a little English."
+            },
+            {
+                "es": "Quiero aprender más.",
+                "en": "I want to learn more."
+            },
+            {
+                "es": "Hay un libro en la mesa.",
+                "en": "There is a book on the table."
+            },
+            {
+                "es": "Hay tres sillas aquí.",
+                "en": "There are three chairs here."
+            },
+            {
+                "es": "No hay leche en la nevera.",
+                "en": "There is no milk in the fridge."
+            },
+            {
+                "es": "¿Hay alguna pregunta?",
+                "en": "Are there any questions?"
+            },
+            {
+                "es": "Tengo una pregunta.",
+                "en": "I have a question."
+            },
+            {
+                "es": "No entiendo.",
+                "en": "I don't understand."
+            },
+            {
+                "es": "¿Puedes repetir, por favor?",
+                "en": "Can you repeat, please?"
+            },
+            {
+                "es": "¿Cómo se dice esto en inglés?",
+                "en": "How do you say this in English?"
+            },
+            {
+                "es": "Mi color favorito es el verde.",
+                "en": "My favourite colour is green."
+            },
+            {
+                "es": "La hierba es verde.",
+                "en": "The grass is green."
+            },
+            {
+                "es": "El cielo es azul.",
+                "en": "The sky is blue."
+            },
+            {
+                "es": "¿Cuál es tu comida favorita?",
+                "en": "What is your favourite food?"
+            },
+            {
+                "es": "Mi comida favorita es la pizza.",
+                "en": "My favourite food is pizza."
+            },
+            {
+                "es": "Me encantan las manzanas.",
+                "en": "I love apples."
+            },
+            {
+                "es": "Quiero una manzana, por favor.",
+                "en": "I want an apple, please."
+            },
+            {
+                "es": "¿Cuánto cuesta?",
+                "en": "How much is it?"
+            },
+            {
+                "es": "Cuesta cinco euros.",
+                "en": "It costs five euros."
+            },
+            {
+                "es": "Es demasiado caro.",
+                "en": "It is too expensive."
+            },
+            {
+                "es": "Voy al supermercado.",
+                "en": "I am going to the supermarket."
+            },
+            {
+                "es": "Necesito comprar pan.",
+                "en": "I need to buy bread."
+            },
+            {
+                "es": "¿Dónde vives?",
+                "en": "Where do you live?"
+            },
+            {
+                "es": "Vivo en la calle Park.",
+                "en": "I live on Park Street."
+            },
+            {
+                "es": "¿Cuál es tu dirección?",
+                "en": "What is your address?"
+            },
+            {
+                "es": "Mi piso es pequeño.",
+                "en": "My flat is small."
+            },
+            {
+                "es": "Hay dos habitaciones.",
+                "en": "There are two rooms."
+            },
+            {
+                "es": "La cocina es moderna.",
+                "en": "The kitchen is modern."
+            },
+            {
+                "es": "Veo la televisión por la noche.",
+                "en": "I watch TV in the evening."
+            },
+            {
+                "es": "Leo un libro antes de dormir.",
+                "en": "I read a book before sleeping."
+            },
+            {
+                "es": "Estoy cansado ahora.",
+                "en": "I am tired now."
+            },
+            {
+                "es": "Tengo hambre.",
+                "en": "I am hungry."
+            },
+            {
+                "es": "Tengo sed.",
+                "en": "I am thirsty."
+            },
+            {
+                "es": "Vamos a un restaurante.",
+                "en": "Let's go to a restaurant."
+            },
+            {
+                "es": "Este restaurante es bueno.",
+                "en": "This restaurant is good."
+            },
+            {
+                "es": "La comida está deliciosa.",
+                "en": "The food is delicious."
+            },
+            {
+                "es": "¿Qué estás haciendo?",
+                "en": "What are you doing?"
+            },
+            {
+                "es": "Estoy trabajando.",
+                "en": "I am working."
+            },
+            {
+                "es": "Estoy escuchando música.",
+                "en": "I am listening to music."
+            },
+            {
+                "es": "Ella está cocinando la cena.",
+                "en": "She is cooking dinner."
+            },
+            {
+                "es": "Él está leyendo el periódico.",
+                "en": "He is reading the newspaper."
+            },
+            {
+                "es": "Están jugando al fútbol.",
+                "en": "They are playing football."
+            },
+            {
+                "es": "El teléfono está sonando.",
+                "en": "The phone is ringing."
+            },
+            {
+                "es": "Mi cumpleaños es en junio.",
+                "en": "My birthday is in June."
+            },
+            {
+                "es": "¿Cuándo es tu cumpleaños?",
+                "en": "When is your birthday?"
+            },
+            {
+                "es": "Hoy es lunes.",
+                "en": "Today is Monday."
+            },
+            {
+                "es": "Mañana es martes.",
+                "en": "Tomorrow is Tuesday."
+            },
+            {
+                "es": "El fin de semana fue divertido.",
+                "en": "The weekend was fun."
+            },
+            {
+                "es": "Voy al cine el viernes.",
+                "en": "I am going to the cinema on Friday."
+            },
+            {
+                "es": "¿Quieres venir?",
+                "en": "Do you want to come?"
+            },
+            {
+                "es": "Sí, me encantaría.",
+                "en": "Yes, I would love to."
+            },
+            {
+                "es": "Lo siento, estoy ocupado.",
+                "en": "Sorry, I am busy."
+            },
+            {
+                "es": "Tengo que estudiar.",
+                "en": "I have to study."
+            },
+            {
+                "es": "El examen es difícil.",
+                "en": "The exam is difficult."
+            },
+            {
+                "es": "Necesito una buena nota.",
+                "en": "I need a good grade."
+            },
+            {
+                "es": "Mi padre es médico.",
+                "en": "My father is a doctor."
+            },
+            {
+                "es": "Mi madre es enfermera.",
+                "en": "My mother is a nurse."
+            },
+            {
+                "es": "Trabajan en un hospital.",
+                "en": "They work in a hospital."
+            },
+            {
+                "es": "El hospital está cerca de aquí.",
+                "en": "The hospital is near here."
+            },
+            {
+                "es": "La farmacia está al lado.",
+                "en": "The pharmacy is next to it."
+            },
+            {
+                "es": "Busco un hotel.",
+                "en": "I am looking for a hotel."
+            },
+            {
+                "es": "¿Hay un hotel por aquí?",
+                "en": "Is there a hotel around here?"
+            },
+            {
+                "es": "Sí, hay uno en esa calle.",
+                "en": "Yes, there is one on that street."
+            },
+            {
+                "es": "Gracias por tu ayuda.",
+                "en": "Thank you for your help."
+            },
+            {
+                "es": "De nada.",
+                "en": "You're welcome."
+            },
+            {
+                "es": "Disculpa, ¿hablas inglés?",
+                "en": "Excuse me, do you speak English?"
+            },
+            {
+                "es": "Mi animal favorito es el perro.",
+                "en": "My favourite animal is the dog."
+            },
+            {
+                "es": "Los perros son amigables.",
+                "en": "Dogs are friendly."
+            },
+            {
+                "es": "Los gatos son independientes.",
+                "en": "Cats are independent."
+            },
+            {
+                "es": "El león es el rey de la selva.",
+                "en": "The lion is the king of the jungle."
+            },
+            {
+                "es": "Me gusta viajar.",
+                "en": "I like to travel."
+            },
+            {
+                "es": "Visito a mis abuelos.",
+                "en": "I visit my grandparents."
+            },
+            {
+                "es": "Viven en el campo.",
+                "en": "They live in the countryside."
+            },
+            {
+                "es": "El campo es tranquilo.",
+                "en": "The countryside is quiet."
+            },
+            {
+                "es": "La ciudad es ruidosa.",
+                "en": "The city is noisy."
+            },
+            {
+                "es": "Prefiero la playa.",
+                "en": "I prefer the beach."
+            },
+            {
+                "es": "Me gusta nadar en el mar.",
+                "en": "I like to swim in the sea."
+            },
+            {
+                "es": "El agua está fría.",
+                "en": "The water is cold."
+            },
+            {
+                "es": "El sol está caliente.",
+                "en": "The sun is hot."
+            },
+            {
+                "es": "Usa protector solar.",
+                "en": "Use sunscreen."
+            },
+            {
+                "es": "Él es alto y delgado.",
+                "en": "He is tall and thin."
+            },
+            {
+                "es": "Ella es baja y fuerte.",
+                "en": "She is short and strong."
+            },
+            {
+                "es": "Él tiene el pelo rubio.",
+                "en": "He has blond hair."
+            },
+            {
+                "es": "Ella tiene los ojos azules.",
+                "en": "She has blue eyes."
+            },
+            {
+                "es": "Él lleva gafas.",
+                "en": "He wears glasses."
+            },
+            {
+                "es": "La película empieza a las ocho.",
+                "en": "The movie starts at eight."
+            },
+            {
+                "es": "Dura dos horas.",
+                "en": "It lasts for two hours."
+            },
+            {
+                "es": "Compramos palomitas.",
+                "en": "We buy popcorn."
+            },
+            {
+                "es": "La película es de comedia.",
+                "en": "The movie is a comedy."
+            },
+            {
+                "es": "Es muy divertida.",
+                "en": "It is very funny."
+            },
+            {
+                "es": "Nos reímos mucho.",
+                "en": "We laugh a lot."
+            },
+            {
+                "es": "El libro está sobre la mesa.",
+                "en": "The book is on the table."
+            },
+            {
+                "es": "El bolígrafo está en el cajón.",
+                "en": "The pen is in the drawer."
+            },
+            {
+                "es": "Mis llaves están en mi bolsillo.",
+                "en": "My keys are in my pocket."
+            },
+            {
+                "es": "El gato está debajo de la cama.",
+                "en": "The cat is under the bed."
+            },
+            {
+                "es": "La escuela está cerca del parque.",
+                "en": "The school is near the park."
+            },
+            {
+                "es": "El banco está lejos de aquí.",
+                "en": "The bank is far from here."
+            },
+            {
+                "es": "Gira a la izquierda en el semáforo.",
+                "en": "Turn left at the traffic lights."
+            },
+            {
+                "es": "Sigue todo recto.",
+                "en": "Go straight ahead."
+            },
+            {
+                "es": "La tienda está a tu derecha.",
+                "en": "The shop is on your right."
+            },
+            {
+                "es": "¿Qué te gusta hacer?",
+                "en": "What do you like to do?"
+            },
+            {
+                "es": "Me gusta jugar a los videojuegos.",
+                "en": "I like to play video games."
+            },
+            {
+                "es": "Me gusta salir con amigos.",
+                "en": "I like to go out with friends."
+            },
+            {
+                "es": "Me gusta hacer deporte.",
+                "en": "I like to play sports."
+            },
+            {
+                "es": "Juego al tenis los sábados.",
+                "en": "I play tennis on Saturdays."
+            },
+            {
+                "es": "Nado en la piscina.",
+                "en": "I swim in the pool."
+            },
+            {
+                "es": "Corro por la mañana.",
+                "en": "I run in the morning."
+            },
+            {
+                "es": "Es bueno para la salud.",
+                "en": "It is good for your health."
+            },
+            {
+                "es": "Como muchas frutas y verduras.",
+                "en": "I eat a lot of fruit and vegetables."
+            },
+            {
+                "es": "Las zanahorias son naranjas.",
+                "en": "Carrots are orange."
+            },
+            {
+                "es": "Los plátanos son amarillos.",
+                "en": "Bananas are yellow."
+            },
+            {
+                "es": "Las fresas son rojas.",
+                "en": "Strawberries are red."
+            },
+            {
+                "es": "¿Tienes hermanos o hermanas?",
+                "en": "Do you have any brothers or sisters?"
+            },
+            {
+                "es": "Tengo un hermano mayor.",
+                "en": "I have an older brother."
+            },
+            {
+                "es": "Tengo una hermana pequeña.",
+                "en": "I have a younger sister."
+            },
+            {
+                "es": "Soy hijo único.",
+                "en": "I am an only child."
+            },
+            {
+                "es": "Mi familia es grande.",
+                "en": "My family is big."
+            },
+            {
+                "es": "¿Cuál es el trabajo de tu padre?",
+                "en": "What is your father's job?"
+            },
+            {
+                "es": "Es ingeniero.",
+                "en": "He is an engineer."
+            },
+            {
+                "es": "¿Qué estudias?",
+                "en": "What do you study?"
+            },
+            {
+                "es": "Estudio economía.",
+                "en": "I study economics."
+            },
+            {
+                "es": "La universidad es enorme.",
+                "en": "The university is huge."
+            },
+            {
+                "es": "Mis clases son por la mañana.",
+                "en": "My classes are in the morning."
+            },
+            {
+                "es": "Tengo un examen mañana.",
+                "en": "I have an exam tomorrow."
+            },
+            {
+                "es": "Necesito estudiar esta noche.",
+                "en": "I need to study tonight."
+            },
+            {
+                "es": "¿Estás listo?",
+                "en": "Are you ready?"
+            },
+            {
+                "es": "Sí, estoy listo.",
+                "en": "Yes, I am ready."
+            },
+            {
+                "es": "Vamos, es tarde.",
+                "en": "Let's go, it's late."
+            },
+            {
+                "es": "El tren llega a las cinco.",
+                "en": "The train arrives at five."
+            },
+            {
+                "es": "Tenemos que darnos prisa.",
+                "en": "We have to hurry."
+            },
+            {
+                "es": "No quiero perder el tren.",
+                "en": "I don't want to miss the train."
+            },
+            {
+                "es": "¿Qué música te gusta?",
+                "en": "What music do you like?"
+            },
+            {
+                "es": "Me gusta la música rock.",
+                "en": "I like rock music."
+            },
+            {
+                "es": "Mi banda favorita es Queen.",
+                "en": "My favourite band is Queen."
+            },
+            {
+                "es": "Toco la guitarra.",
+                "en": "I play the guitar."
+            },
+            {
+                "es": "Mi amigo canta muy bien.",
+                "en": "My friend sings very well."
+            },
+            {
+                "es": "Tenemos una banda.",
+                "en": "We have a band."
+            },
+            {
+                "es": "Escribo un correo electrónico.",
+                "en": "I am writing an email."
+            },
+            {
+                "es": "Uso el ordenador para trabajar.",
+                "en": "I use the computer for work."
+            },
+            {
+                "es": "Mi ordenador es rápido.",
+                "en": "My computer is fast."
+            },
+            {
+                "es": "El internet no funciona.",
+                "en": "The internet is not working."
+            },
+            {
+                "es": "¿Cuál es tu número de teléfono?",
+                "en": "What is your phone number?"
+            },
+            {
+                "es": "Te llamaré más tarde.",
+                "en": "I will call you later."
+            },
+            {
+                "es": "¿Estás en casa ahora?",
+                "en": "Are you at home now?"
+            },
+            {
+                "es": "No, estoy en la biblioteca.",
+                "en": "No, I am at the library."
+            },
+            {
+                "es": "La biblioteca es silenciosa.",
+                "en": "The library is quiet."
+            },
+            {
+                "es": "La gente está leyendo.",
+                "en": "People are reading."
+            },
+            {
+                "es": "Necesito un bolígrafo.",
+                "en": "I need a pen."
+            },
+            {
+                "es": "¿Tienes un bolígrafo?",
+                "en": "Do you have a pen?"
+            },
+            {
+                "es": "Toma, aquí tienes.",
+                "en": "Here you are."
+            },
+            {
+                "es": "¡Muchas gracias!",
+                "en": "Thank you very much!"
+            },
+            {
+                "es": "Por favor, siéntate.",
+                "en": "Please, sit down."
+            },
+            {
+                "es": "Abre la ventana.",
+                "en": "Open the window."
+            },
+            {
+                "es": "Cierra la puerta.",
+                "en": "Close the door."
+            },
+            {
+                "es": "Hace calor aquí dentro.",
+                "en": "It is hot in here."
+            },
+            {
+                "es": "Necesito un poco de aire fresco.",
+                "en": "I need some fresh air."
+            },
+            {
+                "es": "Vamos a dar un paseo.",
+                "en": "Let's go for a walk."
+            },
+            {
+                "es": "El parque es precioso.",
+                "en": "The park is beautiful."
+            },
+            {
+                "es": "Hay muchas flores.",
+                "en": "There are many flowers."
+            },
+            {
+                "es": "Los niños están jugando.",
+                "en": "The children are playing."
+            },
+            {
+                "es": "Es un día agradable.",
+                "en": "It's a nice day."
+            },
+            {
+                "es": "¿Qué quieres para cenar?",
+                "en": "What do you want for dinner?"
+            },
+            {
+                "es": "Podemos pedir pizza.",
+                "en": "We can order pizza."
+            },
+            {
+                "es": "O puedo cocinar pasta.",
+                "en": "Or I can cook pasta."
+            },
+            {
+                "es": "La pasta suena genial.",
+                "en": "Pasta sounds great."
+            },
+            {
+                "es": "Añade un poco de queso.",
+                "en": "Add some cheese."
+            },
+            {
+                "es": "Me gusta la comida picante.",
+                "en": "I like spicy food."
+            },
+            {
+                "es": "Este plato no es picante.",
+                "en": "This dish is not spicy."
+            },
+            {
+                "es": "¿Quieres un poco de agua?",
+                "en": "Do you want some water?"
+            },
+            {
+                "es": "Sí, por favor.",
+                "en": "Yes, please."
+            },
+            {
+                "es": "La cuenta, por favor.",
+                "en": "The bill, please."
+            },
+            {
+                "es": "Vamos a pagar.",
+                "en": "Let's pay."
+            },
+            {
+                "es": "Pagamos a medias.",
+                "en": "We pay fifty-fifty."
+            },
+            {
+                "es": "La próxima vez invito yo.",
+                "en": "Next time it's my treat."
+            },
+            {
+                "es": "¿Cómo vas al trabajo?",
+                "en": "How do you go to work?"
+            },
+            {
+                "es": "Voy en coche.",
+                "en": "I go by car."
+            },
+            {
+                "es": "El tráfico es terrible.",
+                "en": "The traffic is terrible."
+            },
+            {
+                "es": "Prefiero el transporte público.",
+                "en": "I prefer public transport."
+            },
+            {
+                "es": "El metro es rápido.",
+                "en": "The metro is fast."
+            },
+            {
+                "es": "No me siento bien.",
+                "en": "I don't feel well."
+            },
+            {
+                "es": "Me duele la cabeza.",
+                "en": "I have a headache."
+            },
+            {
+                "es": "Necesitas descansar.",
+                "en": "You need to rest."
+            },
+            {
+                "es": "Toma una aspirina.",
+                "en": "Take an aspirin."
+            },
+            {
+                "es": "Espero que te mejores pronto.",
+                "en": "I hope you get well soon."
+            },
+            {
+                "es": "¿Te gusta el café o el té?",
+                "en": "Do you like coffee or tea?"
+            },
+            {
+                "es": "Prefiero el café por la mañana.",
+                "en": "I prefer coffee in the morning."
+            },
+            {
+                "es": "Bebo té por la tarde.",
+                "en": "I drink tea in the afternoon."
+            },
+            {
+                "es": "El café me da energía.",
+                "en": "Coffee gives me energy."
+            },
+            {
+                "es": "Me gusta el café con leche.",
+                "en": "I like coffee with milk."
+            },
+            {
+                "es": "No le pongo azúcar.",
+                "en": "I don't take sugar."
+            },
+            {
+                "es": "Este es mi amigo Juan.",
+                "en": "This is my friend Juan."
+            },
+            {
+                "es": "Encantado de conocerte.",
+                "en": "Nice to meet you."
+            },
+            {
+                "es": "Igualmente.",
+                "en": "Nice to meet you too."
+            },
+            {
+                "es": "Juan es de México.",
+                "en": "Juan is from Mexico."
+            },
+            {
+                "es": "Él es muy simpático.",
+                "en": "He is very friendly."
+            },
+            {
+                "es": "¿Qué idiomas hablas?",
+                "en": "What languages do you speak?"
+            },
+            {
+                "es": "Hablo español y portugués.",
+                "en": "I speak Spanish and Portuguese."
+            },
+            {
+                "es": "Estoy aprendiendo inglés ahora.",
+                "en": "I am learning English now."
+            },
+            {
+                "es": "La gramática es un poco difícil.",
+                "en": "The grammar is a bit difficult."
+            },
+            {
+                "es": "La práctica hace al maestro.",
+                "en": "Practice makes perfect."
+            },
+            {
+                "es": "Veo películas en inglés.",
+                "en": "I watch movies in English."
+            },
+            {
+                "es": "Uso subtítulos en inglés.",
+                "en": "I use English subtitles."
+            },
+            {
+                "es": "Ayuda mucho.",
+                "en": "It helps a lot."
+            },
+            {
+                "es": "¿Tienes alguna mascota?",
+                "en": "Do you have any pets?"
+            },
+            {
+                "es": "Sí, tengo un pez.",
+                "en": "Yes, I have a fish."
+            },
+            {
+                "es": "Se llama Nemo.",
+                "en": "His name is Nemo."
+            },
+            {
+                "es": "Los peces son fáciles de cuidar.",
+                "en": "Fish are easy to take care of."
+            },
+            {
+                "es": "Solo necesitan comida y agua.",
+                "en": "They just need food and water."
+            },
+            {
+                "es": "¿Qué planes tienes para el verano?",
+                "en": "What are your plans for the summer?"
+            },
+            {
+                "es": "Voy a ir a la playa.",
+                "en": "I am going to go to the beach."
+            },
+            {
+                "es": "Voy a visitar a mi familia.",
+                "en": "I am going to visit my family."
+            },
+            {
+                "es": "Serán unas buenas vacaciones.",
+                "en": "It will be a good holiday."
+            },
+            {
+                "es": "Estoy muy emocionado.",
+                "en": "I am very excited."
+            },
+            {
+                "es": "¿Vienes a la fiesta?",
+                "en": "Are you coming to the party?"
+            },
+            {
+                "es": "Sí, por supuesto.",
+                "en": "Yes, of course."
+            },
+            {
+                "es": "La fiesta es el sábado.",
+                "en": "The party is on Saturday."
+            },
+            {
+                "es": "Empieza a las nueve.",
+                "en": "It starts at nine."
+            },
+            {
+                "es": "No llegues tarde.",
+                "en": "Don't be late."
+            },
+            {
+                "es": "Llevaré algo de beber.",
+                "en": "I will bring something to drink."
+            },
+            {
+                "es": "¡Nos vemos allí!",
+                "en": "See you there!"
+            },
+            {
+                "es": "¿Cuál es el problema?",
+                "en": "What is the problem?"
+            },
+            {
+                "es": "He perdido mi cartera.",
+                "en": "I lost my wallet."
+            },
+            {
+                "es": "Oh no, qué mal.",
+                "en": "Oh no, that's bad."
+            },
+            {
+                "es": "Mi DNI estaba dentro.",
+                "en": "My ID was inside."
+            },
+            {
+                "es": "Vamos a buscarla.",
+                "en": "Let's look for it."
+            },
+            {
+                "es": "¿Dónde fue la última vez que la viste?",
+                "en": "Where did you last see it?"
+            },
+            {
+                "es": "Creo que en la cafetería.",
+                "en": "I think in the cafeteria."
+            },
+            {
+                "es": "Preguntemos al camarero.",
+                "en": "Let's ask the waiter."
+            },
+            {
+                "es": "Buena idea.",
+                "en": "Good idea."
+            },
+            {
+                "es": "El primer día de la semana es el lunes.",
+                "en": "The first day of the week is Monday."
+            },
+            {
+                "es": "El último día es el domingo.",
+                "en": "The last day is Sunday."
+            },
+            {
+                "es": "Mi día favorito es el viernes.",
+                "en": "My favourite day is Friday."
+            },
+            {
+                "es": "Porque empieza el fin de semana.",
+                "en": "Because the weekend starts."
+            },
+            {
+                "es": "Me relajo los domingos.",
+                "en": "I relax on Sundays."
+            },
+            {
+                "es": "El libro es interesante.",
+                "en": "The book is interesting."
+            },
+            {
+                "es": "La historia es sobre un detective.",
+                "en": "The story is about a detective."
+            },
+            {
+                "es": "Me gustan las novelas de misterio.",
+                "en": "I like mystery novels."
+            },
+            {
+                "es": "Siempre intento adivinar el final.",
+                "en": "I always try to guess the ending."
+            },
+            {
+                "es": "A veces acierto.",
+                "en": "Sometimes I am right."
+            },
+            {
+                "es": "¿Cómo está el tiempo?",
+                "en": "What's the weather like?"
+            },
+            {
+                "es": "Está nublado ahora mismo.",
+                "en": "It's cloudy right now."
+            },
+            {
+                "es": "Quizás llueva más tarde.",
+                "en": "Maybe it will rain later."
+            },
+            {
+                "es": "No olvides tu paraguas.",
+                "en": "Don't forget your umbrella."
+            },
+            {
+                "es": "Odio la lluvia.",
+                "en": "I hate the rain."
+            },
+            {
+                "es": "Prefiero los días soleados.",
+                "en": "I prefer sunny days."
+            },
+            {
+                "es": "Yo también.",
+                "en": "Me too."
+            },
+            {
+                "es": "El sol me hace feliz.",
+                "en": "The sun makes me happy."
+            },
+            {
+                "es": "¿Qué talla usas?",
+                "en": "What size are you?"
+            },
+            {
+                "es": "Uso la talla mediana.",
+                "en": "I wear a medium size."
+            },
+            {
+                "es": "Esta camiseta me queda pequeña.",
+                "en": "This t-shirt is too small for me."
+            },
+            {
+                "es": "Necesito una talla más grande.",
+                "en": "I need a larger size."
+            },
+            {
+                "es": "¿Me puedo probar esto?",
+                "en": "Can I try this on?"
+            },
+            {
+                "es": "Los probadores están allí.",
+                "en": "The fitting rooms are over there."
+            },
+            {
+                "es": "Me queda perfecto.",
+                "en": "It fits perfectly."
+            },
+            {
+                "es": "Me lo llevo.",
+                "en": "I'll take it."
+            },
+            {
+                "es": "¿Paga con tarjeta o en efectivo?",
+                "en": "Do you pay by card or in cash?"
+            },
+            {
+                "es": "Con tarjeta, por favor.",
+                "en": "By card, please."
+            },
+            {
+                "es": "Introduzca su PIN.",
+                "en": "Enter your PIN."
+            },
+            {
+                "es": "Aquí tiene su recibo.",
+                "en": "Here is your receipt."
+            },
+            {
+                "es": "Que tenga un buen día.",
+                "en": "Have a nice day."
+            },
+            {
+                "es": "Usted también, adiós.",
+                "en": "You too, goodbye."
+            },
+            {
+                "es": "Mi abuela tiene 80 años.",
+                "en": "My grandmother is 80 years old."
+            },
+            {
+                "es": "Mi abuelo es muy sabio.",
+                "en": "My grandfather is very wise."
+            },
+            {
+                "es": "Cuentan historias geniales.",
+                "en": "They tell great stories."
+            },
+            {
+                "es": "Los quiero mucho.",
+                "en": "I love them very much."
+            },
+            {
+                "es": "Uno, dos, tres.",
+                "en": "One, two, three."
+            },
+            {
+                "es": "Cuatro, cinco, seis.",
+                "en": "Four, five, six."
+            },
+            {
+                "es": "Siete, ocho, nueve, diez.",
+                "en": "Seven, eight, nine, ten."
+            },
+            {
+                "es": "Sé contar hasta cien.",
+                "en": "I can count to one hundred."
+            },
+            {
+                "es": "Los números son importantes.",
+                "en": "Numbers are important."
+            },
+            {
+                "es": "Mi número de la suerte es el siete.",
+                "en": "My lucky number is seven."
+            },
+            {
+                "es": "¿Cuál es el tuyo?",
+                "en": "What is yours?"
+            },
+            {
+                "es": "Tengo una idea.",
+                "en": "I have an idea."
+            },
+            {
+                "es": "Dime tu idea.",
+                "en": "Tell me your idea."
+            },
+            {
+                "es": "Vamos a la montaña.",
+                "en": "Let's go to the mountains."
+            },
+            {
+                "es": "Podemos hacer senderismo.",
+                "en": "We can go hiking."
+            },
+            {
+                "es": "El aire es puro allí.",
+                "en": "The air is pure there."
+            },
+            {
+                "es": "La vista es increíble.",
+                "en": "The view is incredible."
+            },
+            {
+                "es": "Necesitamos botas de montaña.",
+                "en": "We need hiking boots."
+            },
+            {
+                "es": "Y una botella de agua.",
+                "en": "And a bottle of water."
+            },
+            {
+                "es": "Será una gran aventura.",
+                "en": "It will be a great adventure."
+            },
+            {
+                "es": "Este café está muy caliente.",
+                "en": "This coffee is very hot."
+            },
+            {
+                "es": "Espera un minuto.",
+                "en": "Wait a minute."
+            },
+            {
+                "es": "Este helado está delicioso.",
+                "en": "This ice cream is delicious."
+            },
+            {
+                "es": "Mi sabor favorito es el chocolate.",
+                "en": "My favourite flavour is chocolate."
+            },
+            {
+                "es": "Quiero otra bola.",
+                "en": "I want another scoop."
+            },
+            {
+                "es": "¿Qué deporte te gusta ver?",
+                "en": "What sport do you like to watch?"
+            },
+            {
+                "es": "Me gusta ver el baloncesto.",
+                "en": "I like to watch basketball."
+            },
+            {
+                "es": "Los jugadores son muy altos.",
+                "en": "The players are very tall."
+            },
+            {
+                "es": "Es un juego rápido.",
+                "en": "It's a fast game."
+            },
+            {
+                "es": "Mi equipo siempre pierde.",
+                "en": "My team always loses."
+            },
+            {
+                "es": "Pero sigue siendo divertido.",
+                "en": "But it's still fun."
+            },
+            {
+                "es": "La estación de tren está por allí.",
+                "en": "The train station is over there."
+            },
+            {
+                "es": "¿A qué hora sale el próximo tren?",
+                "en": "What time does the next train leave?"
+            },
+            {
+                "es": "Sale en diez minutos.",
+                "en": "It leaves in ten minutes."
+            },
+            {
+                "es": "Necesito un billete a Londres.",
+                "en": "I need a ticket to London."
+            },
+            {
+                "es": "¿De ida o de ida y vuelta?",
+                "en": "Single or return?"
+            },
+            {
+                "es": "Solo de ida, por favor.",
+                "en": "Just single, please."
+            },
+            {
+                "es": "¿En qué andén?",
+                "en": "Which platform?"
+            },
+            {
+                "es": "En el andén número dos.",
+                "en": "Platform number two."
+            },
+            {
+                "es": "Gracias, adiós.",
+                "en": "Thank you, goodbye."
+            },
+            {
+                "es": "Estoy feliz hoy.",
+                "en": "I am happy today."
+            },
+            {
+                "es": "Estoy un poco triste.",
+                "en": "I am a little sad."
+            },
+            {
+                "es": "No te preocupes, sé feliz.",
+                "en": "Don't worry, be happy."
+            },
+            {
+                "es": "La vida es bonita.",
+                "en": "Life is beautiful."
+            },
+            {
+                "es": "Disfruta cada momento.",
+                "en": "Enjoy every moment."
+            },
+            {
+                "es": "Sonríe a menudo.",
+                "en": "Smile often."
+            },
+            {
+                "es": "La risa es la mejor medicina.",
+                "en": "Laughter is the best medicine."
+            },
+            {
+                "es": "Estoy de acuerdo.",
+                "en": "I agree."
+            },
+            {
+                "es": "No estoy de acuerdo.",
+                "en": "I don't agree."
+            },
+            {
+                "es": "Tienes razón.",
+                "en": "You are right."
+            },
+            {
+                "es": "Estás equivocado.",
+                "en": "You are wrong."
+            },
+            {
+                "es": "Es mi opinión.",
+                "en": "It's my opinion."
+            },
+            {
+                "es": "Respeto tu opinión.",
+                "en": "I respect your opinion."
+            },
+            {
+                "es": "Podemos estar de acuerdo en no estar de acuerdo.",
+                "en": "We can agree to disagree."
+            },
+            {
+                "es": "La amistad es importante.",
+                "en": "Friendship is important."
+            },
+            {
+                "es": "Mis amigos son mi familia.",
+                "en": "My friends are my family."
+            },
+            {
+                "es": "Un buen amigo siempre ayuda.",
+                "en": "A good friend always helps."
+            },
+            {
+                "es": "Confío en mis amigos.",
+                "en": "I trust my friends."
+            },
+            {
+                "es": "Eres un buen amigo.",
+                "en": "You are a good friend."
+            },
+            {
+                "es": "Gracias, tú también.",
+                "en": "Thanks, you too."
+            }
+        ]
+}
