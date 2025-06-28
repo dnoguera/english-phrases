@@ -1,0 +1,804 @@
+{
+    "phrases": [
+            {
+                "es": "Ayer trabajé mucho en la oficina.",
+                "en": "I worked a lot at the office yesterday."
+            },
+            {
+                "es": "No vi la película anoche, estaba demasiado cansado.",
+                "en": "I didn't watch the movie last night, I was too tired."
+            },
+            {
+                "es": "¿Fuiste a la fiesta de Sarah el sábado?",
+                "en": "Did you go to Sarah's party on Saturday?"
+            },
+            {
+                "es": "Comimos en un restaurante italiano nuevo.",
+                "en": "We ate at a new Italian restaurant."
+            },
+            {
+                "es": "El año pasado viajamos a Francia de vacaciones.",
+                "en": "Last year we travelled to France for our holiday."
+            },
+            {
+                "es": "Ella compró un vestido precioso para la boda.",
+                "en": "She bought a beautiful dress for the wedding."
+            },
+            {
+                "es": "¿Dónde pusiste las llaves del coche? No las encuentro.",
+                "en": "Where did you put the car keys? I can't find them."
+            },
+            {
+                "es": "Nunca he estado en Asia, pero me encantaría ir.",
+                "en": "I have never been to Asia, but I would love to go."
+            },
+            {
+                "es": "¿Alguna vez has probado el sushi?",
+                "en": "Have you ever tried sushi?"
+            },
+            {
+                "es": "Él ya ha terminado sus deberes para mañana.",
+                "en": "He has already finished his homework for tomorrow."
+            },
+            {
+                "es": "Todavía no hemos decidido a dónde ir de vacaciones.",
+                "en": "We haven't decided where to go on holiday yet."
+            },
+            {
+                "es": "Ella ha vivido en Londres durante tres años.",
+                "en": "She has lived in London for three years."
+            },
+            {
+                "es": "He perdido mi teléfono. ¿Lo has visto?",
+                "en": "I have lost my phone. Have you seen it?"
+            },
+            {
+                "es": "Mi hermano es más alto que yo.",
+                "en": "My brother is taller than me."
+            },
+            {
+                "es": "Este libro es más interesante que la película.",
+                "en": "This book is more interesting than the movie."
+            },
+            {
+                "es": "El coche azul es más caro que el rojo.",
+                "en": "The blue car is more expensive than the red one."
+            },
+            {
+                "es": "Creo que el verano es la mejor estación del año.",
+                "en": "I think summer is the best season of the year."
+            },
+            {
+                "es": "Es el edificio más alto de la ciudad.",
+                "en": "It is the tallest building in the city."
+            },
+            {
+                "es": "Fue la peor comida que he probado.",
+                "en": "It was the worst meal I have ever tasted."
+            },
+            {
+                "es": "Estaba durmiendo cuando sonó el teléfono.",
+                "en": "I was sleeping when the phone rang."
+            },
+            {
+                "es": "¿Qué estabas haciendo ayer a las 8 de la tarde?",
+                "en": "What were you doing yesterday at 8 PM?"
+            },
+            {
+                "es": "Mientras yo cocinaba, él estaba poniendo la mesa.",
+                "en": "While I was cooking, he was setting the table."
+            },
+            {
+                "es": "No estaban prestando atención en clase.",
+                "en": "They weren't paying attention in class."
+            },
+            {
+                "es": "Deberías beber más agua durante el día.",
+                "en": "You should drink more water during the day."
+            },
+            {
+                "es": "No deberías comer tantos dulces, no es saludable.",
+                "en": "You shouldn't eat so many sweets, it's not healthy."
+            },
+            {
+                "es": "Tengo que levantarme temprano mañana para coger un vuelo.",
+                "en": "I have to get up early tomorrow to catch a flight."
+            },
+            {
+                "es": "No tienes que venir si no quieres.",
+                "en": "You don't have to come if you don't want to."
+            },
+            {
+                "es": "¿Tenemos que comprar un regalo para él?",
+                "en": "Do we have to buy a present for him?"
+            },
+            {
+                "es": "Voy a visitar a mis abuelos este fin de semana.",
+                "en": "I am going to visit my grandparents this weekend."
+            },
+            {
+                "es": "Creo que lloverá más tarde, el cielo está muy oscuro.",
+                "en": "I think it will rain later, the sky is very dark."
+            },
+            {
+                "es": "Te ayudaré con esas bolsas, parecen pesadas.",
+                "en": "I'll help you with those bags, they look heavy."
+            },
+            {
+                "es": "No te preocupes, no se lo diré a nadie.",
+                "en": "Don't worry, I won't tell anyone."
+            },
+            {
+                "es": "Si tengo tiempo, iré al gimnasio después del trabajo.",
+                "en": "If I have time, I will go to the gym after work."
+            },
+            {
+                "es": "Si estudias duro, aprobarás el examen fácilmente.",
+                "en": "If you study hard, you will pass the exam easily."
+            },
+            {
+                "es": "No saldremos si llueve.",
+                "en": "We won't go out if it rains."
+            },
+            {
+                "es": "Hay un poco de leche en la nevera.",
+                "en": "There is a little milk in the fridge."
+            },
+            {
+                "es": "Solo tenemos unos pocos huevos, necesitamos comprar más.",
+                "en": "We only have a few eggs, we need to buy more."
+            },
+            {
+                "es": "¿Cuánta azúcar quieres en tu café?",
+                "en": "How much sugar do you want in your coffee?"
+            },
+            {
+                "es": "¿Cuántos hermanos tienes?",
+                "en": "How many brothers and sisters do you have?"
+            },
+            {
+                "es": "No tengo mucho tiempo libre esta semana.",
+                "en": "I don't have much free time this week."
+            },
+            {
+                "es": "Hay mucha gente en el centro comercial hoy.",
+                "en": "There are a lot of people in the shopping centre today."
+            },
+            {
+                "es": "Me gusta leer libros en mi tiempo libre.",
+                "en": "I enjoy reading books in my free time."
+            },
+            {
+                "es": "A él le encanta jugar al fútbol con sus amigos.",
+                "en": "He loves playing football with his friends."
+            },
+            {
+                "es": "Odio levantarme temprano los fines de semana.",
+                "en": "I hate getting up early on weekends."
+            },
+            {
+                "es": "Ella quiere comprar un coche nuevo el próximo año.",
+                "en": "She wants to buy a new car next year."
+            },
+            {
+                "es": "Necesito ir al supermercado a comprar algo de comida.",
+                "en": "I need to go to the supermarket to buy some food."
+            },
+            {
+                "es": "Intenté llamarte antes, pero no contestaste.",
+                "en": "I tried to call you earlier, but you didn't answer."
+            },
+            {
+                "es": "La reunión fue cancelada ayer por la mañana.",
+                "en": "The meeting was cancelled yesterday morning."
+            },
+            {
+                "es": "Este jersey está hecho de lana.",
+                "en": "This jumper is made of wool."
+            },
+            {
+                "es": "Cuando era niño, vivía en una casa pequeña.",
+                "en": "When I was a child, I lived in a small house."
+            },
+            {
+                "es": "Solíamos jugar fuera todos los días después del colegio.",
+                "en": "We used to play outside every day after school."
+            },
+            {
+                "es": "Me siento un poco enfermo, creo que tengo un resfriado.",
+                "en": "I feel a bit sick, I think I have a cold."
+            },
+            {
+                "es": "Me duele la cabeza, necesito tomar una aspirina.",
+                "en": "I have a headache, I need to take an aspirin."
+            },
+            {
+                "es": "Deberías ir al médico si no te sientes mejor mañana.",
+                "en": "You should go to the doctor if you don't feel better tomorrow."
+            },
+            {
+                "es": "Reservé un hotel por internet para nuestro viaje.",
+                "en": "I booked a hotel online for our trip."
+            },
+            {
+                "es": "Nuestro vuelo sale a las 10:30, así que debemos estar en el aeropuerto a las 8:30.",
+                "en": "Our flight leaves at 10:30, so we must be at the airport at 8:30."
+            },
+            {
+                "es": "No olvides tu pasaporte y tu tarjeta de embarque.",
+                "en": "Don't forget your passport and your boarding pass."
+            },
+            {
+                "es": "¿Podrías darme indicaciones para llegar a la estación de tren?",
+                "en": "Could you give me directions to the train station?"
+            },
+            {
+                "es": "Sigue recto y luego gira a la derecha en el primer semáforo.",
+                "en": "Go straight on and then turn right at the first traffic lights."
+            },
+            {
+                "es": "La oficina de correos está enfrente del banco.",
+                "en": "The post office is opposite the bank."
+            },
+            {
+                "es": "Alguien me robó la cartera mientras estaba en el autobús.",
+                "en": "Someone stole my wallet while I was on the bus."
+            },
+            {
+                "es": "Estaba escuchando música, así que no me di cuenta de nada.",
+                "en": "I was listening to music, so I didn't notice anything."
+            },
+            {
+                "es": "Él es la persona más amable que conozco.",
+                "en": "He is the kindest person I know."
+            },
+            {
+                "es": "Ella trabaja más duro que nadie en la oficina.",
+                "en": "She works harder than anyone in the office."
+            },
+            {
+                "es": "La película fue tan aburrida que me dormí.",
+                "en": "The film was so boring that I fell asleep."
+            },
+            {
+                "es": "Hacía demasiado frío para ir a nadar.",
+                "en": "It was too cold to go swimming."
+            },
+            {
+                "es": "No tengo suficiente dinero para comprar ese teléfono.",
+                "en": "I don't have enough money to buy that phone."
+            },
+            {
+                "es": "Este café no está lo suficientemente caliente.",
+                "en": "This coffee isn't hot enough."
+            },
+            {
+                "es": "He estado esperando aquí durante más de una hora.",
+                "en": "I have been waiting here for over an hour."
+            },
+            {
+                "es": "Ella ha estado estudiando inglés desde que era una niña.",
+                "en": "She has been studying English since she was a child."
+            },
+            {
+                "es": "¿Cuánto tiempo llevas trabajando aquí?",
+                "en": "How long have you been working here?"
+            },
+            {
+                "es": "La falda que llevas es muy bonita.",
+                "en": "The skirt that you are wearing is very nice."
+            },
+            {
+                "es": "Este es el restaurante donde tuvimos nuestra primera cita.",
+                "en": "This is the restaurant where we had our first date."
+            },
+            {
+                "es": "Me encontré con un viejo amigo a quien no veía desde hacía años.",
+                "en": "I met an old friend who I hadn't seen for years."
+            },
+            {
+                "es": "Si ganara la lotería, compraría una casa en la playa.",
+                "en": "If I won the lottery, I would buy a house on the beach."
+            },
+            {
+                "es": "Si fuera tú, no aceptaría ese trabajo.",
+                "en": "If I were you, I wouldn't accept that job."
+            },
+            {
+                "es": "¿Qué harías si tuvieras más tiempo libre?",
+                "en": "What would you do if you had more free time?"
+            },
+            {
+                "es": "La carta fue enviada la semana pasada.",
+                "en": "The letter was sent last week."
+            },
+            {
+                "es": "El inglés se habla en muchos países.",
+                "en": "English is spoken in many countries."
+            },
+            {
+                "es": "Mi coche está siendo reparado en este momento.",
+                "en": "My car is being repaired at the moment."
+            },
+            {
+                "es": "Él me preguntó si quería ir al cine.",
+                "en": "He asked me if I wanted to go to the cinema."
+            },
+            {
+                "es": "Ella me dijo que estaba cansada.",
+                "en": "She told me that she was tired."
+            },
+            {
+                "es": "Quizás vaya a la fiesta esta noche, no estoy seguro.",
+                "en": "I might go to the party tonight, I'm not sure."
+            },
+            {
+                "es": "Podríamos ir de excursión este fin de semana si hace buen tiempo.",
+                "en": "We could go for a hike this weekend if the weather is good."
+            },
+            {
+                "es": "Él debe de estar en casa, su coche está fuera.",
+                "en": "He must be at home, his car is outside."
+            },
+            {
+                "es": "No puede ser verdad, no me lo creo.",
+                "en": "It can't be true, I don't believe it."
+            },
+            {
+                "es": "Solía tener el pelo largo cuando era más joven.",
+                "en": "I used to have long hair when I was younger."
+            },
+            {
+                "es": "Él no solía gustarle el brócoli, pero ahora le encanta.",
+                "en": "He didn't use to like broccoli, but now he loves it."
+            },
+            {
+                "es": "¿Solías jugar a videojuegos cuando eras un niño?",
+                "en": "Did you use to play video games when you were a kid?"
+            },
+            {
+                "es": "Estoy acostumbrado a levantarme temprano.",
+                "en": "I am used to getting up early."
+            },
+            {
+                "es": "Le resulta difícil acostumbrarse al clima frío.",
+                "en": "He finds it hard to get used to the cold weather."
+            },
+            {
+                "es": "A pesar de la lluvia, salimos a pasear.",
+                "en": "In spite of the rain, we went for a walk."
+            },
+            {
+                "es": "Estudió mucho, sin embargo, suspendió el examen.",
+                "en": "He studied a lot, however, he failed the exam."
+            },
+            {
+                "es": "Me gustaría pedir una pizza y una ensalada, por favor.",
+                "en": "I would like to order a pizza and a salad, please."
+            },
+            {
+                "es": "¿Prefieres té o café?",
+                "en": "Do you prefer tea or coffee?"
+            },
+            {
+                "es": "Ella es buena tocando el piano.",
+                "en": "She is good at playing the piano."
+            },
+            {
+                "es": "Estoy interesado en aprender sobre historia del arte.",
+                "en": "I am interested in learning about art history."
+            },
+            {
+                "es": "Tengo miedo a las arañas.",
+                "en": "I am afraid of spiders."
+            },
+            {
+                "es": "El examen fue menos difícil de lo que esperaba.",
+                "en": "The exam was less difficult than I expected."
+            },
+            {
+                "es": "Hay menos tráfico los domingos.",
+                "en": "There is less traffic on Sundays."
+            },
+            {
+                "es": "Tengo menos amigos que mi hermana.",
+                "en": "I have fewer friends than my sister."
+            },
+            {
+                "es": "Estoy deseando que lleguen mis vacaciones.",
+                "en": "I am looking forward to my holiday."
+            },
+            {
+                "es": "Apaga las luces cuando salgas de la habitación.",
+                "en": "Turn off the lights when you leave the room."
+            },
+            {
+                "es": "Sube el volumen, no puedo oír la televisión.",
+                "en": "Turn up the volume, I can't hear the TV."
+            },
+            {
+                "es": "Tuve que rellenar un formulario largo en el banco.",
+                "en": "I had to fill in a long form at the bank."
+            },
+            {
+                "es": "Nunca te rindas, sigue intentándolo.",
+                "en": "Never give up, keep trying."
+            },
+            {
+                "es": "Me llevo bien con la mayoría de mis compañeros.",
+                "en": "I get on well with most of my colleagues."
+            },
+            {
+                "es": "Por un lado, el trabajo es interesante, pero por otro lado, el sueldo no es muy bueno.",
+                "en": "On the one hand, the job is interesting, but on the other hand, the salary is not very good."
+            },
+            {
+                "es": "Además de ser inteligente, también es muy amable.",
+                "en": "As well as being intelligent, he is also very kind."
+            },
+            {
+                "es": "Mi vuelo se retrasó debido al mal tiempo.",
+                "en": "My flight was delayed due to the bad weather."
+            },
+            {
+                "es": "Él dejó su trabajo para viajar por el mundo.",
+                "en": "He quit his job in order to travel the world."
+            },
+            {
+                "es": "A menos que te des prisa, perderemos el tren.",
+                "en": "Unless you hurry up, we will miss the train."
+            },
+            {
+                "es": "Coge un paraguas por si llueve.",
+                "en": "Take an umbrella in case it rains."
+            },
+            {
+                "es": "Él habla inglés con fluidez porque vivió en Estados Unidos.",
+                "en": "He speaks English fluently because he lived in the USA."
+            },
+            {
+                "es": "Se me da fatal recordar nombres.",
+                "en": "I am terrible at remembering names."
+            },
+            {
+                "es": "Ella está loca por el chocolate.",
+                "en": "She is crazy about chocolate."
+            },
+            {
+                "es": "Estoy cansado de hacer siempre lo mismo.",
+                "en": "I am tired of doing the same thing all the time."
+            },
+            {
+                "es": "¿Qué tal si vamos al cine esta noche?",
+                "en": "How about going to the cinema tonight?"
+            },
+            {
+                "es": "¿Por qué no pedimos comida para llevar?",
+                "en": "Why don't we order some takeaway food?"
+            },
+            {
+                "es": "Vi a tu hermano en el centro ayer.",
+                "en": "I saw your brother downtown yesterday."
+            },
+            {
+                "es": "Él me dio un buen consejo.",
+                "en": "He gave me a good piece of advice."
+            },
+            {
+                "es": "Tengo buenas noticias para ti.",
+                "en": "I have some good news for you."
+            },
+            {
+                "es": "Los muebles de esta habitación son muy antiguos.",
+                "en": "The furniture in this room is very old."
+            },
+            {
+                "es": "La policía está investigando el caso.",
+                "en": "The police are investigating the case."
+            },
+            {
+                "es": "Prefiero viajar en tren que en avión.",
+                "en": "I prefer travelling by train to travelling by plane."
+            },
+            {
+                "es": "Mi padre me enseñó a montar en bicicleta.",
+                "en": "My father taught me how to ride a bike."
+            },
+            {
+                "es": "No sé qué ponerme para la fiesta.",
+                "en": "I don't know what to wear to the party."
+            },
+            {
+                "es": "Él prometió llamarme, pero no lo hizo.",
+                "en": "He promised to call me, but he didn't."
+            },
+            {
+                "es": "Evito conducir durante la hora punta si puedo.",
+                "en": "I avoid driving during the rush hour if I can."
+            },
+            {
+                "es": "No me importa ayudarte con tu mudanza.",
+                "en": "I don't mind helping you with your move."
+            },
+            {
+                "es": "Acabé de leer ese libro la semana pasada.",
+                "en": "I finished reading that book last week."
+            },
+            {
+                "es": "Él sugirió ir a la playa.",
+                "en": "He suggested going to the beach."
+            },
+            {
+                "es": "¿Te apetece tomar un café después de clase?",
+                "en": "Do you feel like having a coffee after class?"
+            },
+            {
+                "es": "No vale la pena preocuparse por eso.",
+                "en": "It's not worth worrying about it."
+            },
+            {
+                "es": "No veo la hora de irme de vacaciones.",
+                "en": "I can't wait to go on holiday."
+            },
+            {
+                "es": "Tengo dificultades para entender su acento.",
+                "en": "I have difficulty understanding his accent."
+            },
+            {
+                "es": "No tiene sentido discutir sobre ello.",
+                "en": "There's no point in arguing about it."
+            },
+            {
+                "es": "La última vez que lo vi, parecía muy feliz.",
+                "en": "The last time I saw him, he seemed very happy."
+            },
+            {
+                "es": "Mi hermana, que es abogada, vive en Nueva York.",
+                "en": "My sister, who is a lawyer, lives in New York."
+            },
+            {
+                "es": "El coche que compré la semana pasada se ha averiado.",
+                "en": "The car which I bought last week has broken down."
+            },
+            {
+                "es": "Él es un hombre cuyo padre es un actor famoso.",
+                "en": "He is a man whose father is a famous actor."
+            },
+            {
+                "es": "Nos alojamos en un hotel con vistas al mar.",
+                "en": "We stayed at a hotel which overlooked the sea."
+            },
+            {
+                "es": "El examen fue mucho más fácil de lo que pensaba.",
+                "en": "The exam was much easier than I thought."
+            },
+            {
+                "es": "El viaje fue un poco más largo de lo esperado.",
+                "en": "The journey was a bit longer than expected."
+            },
+            {
+                "es": "Si tuviera más dinero, viajaría por el mundo.",
+                "en": "If I had more money, I would travel the world."
+            },
+            {
+                "es": "Me pondré en contacto contigo tan pronto como sepa algo.",
+                "en": "I will contact you as soon as I know something."
+            },
+            {
+                "es": "Mientras no hagas ruido, puedes quedarte.",
+                "en": "As long as you don't make any noise, you can stay."
+            },
+            {
+                "es": "Él actuó como si no me conociera.",
+                "en": "He acted as if he didn't know me."
+            },
+            {
+                "es": "He estado en París dos veces.",
+                "en": "I have been to Paris twice."
+            },
+            {
+                "es": "¿Has hecho ya la compra?",
+                "en": "Have you done the shopping yet?"
+            },
+            {
+                "es": "Acabo de recibir un correo electrónico de mi jefe.",
+                "en": "I have just received an email from my boss."
+            },
+            {
+                "es": "Se fueron hace cinco minutos.",
+                "en": "They left five minutes ago."
+            },
+            {
+                "es": "No he hablado con ella desde el lunes.",
+                "en": "I haven't spoken to her since Monday."
+            },
+            {
+                "es": "He conocido a mi mejor amigo durante diez años.",
+                "en": "I have known my best friend for ten years."
+            },
+            {
+                "es": "Cuando llegué a la estación, el tren ya se había ido.",
+                "en": "When I arrived at the station, the train had already left."
+            },
+            {
+                "es": "No había visto nunca una película tan buena antes.",
+                "en": "I had never seen such a good film before."
+            },
+            {
+                "es": "Después de que él terminó su trabajo, se fue a casa.",
+                "en": "After he had finished his work, he went home."
+            },
+            {
+                "es": "Si hubieras estudiado más, habrías aprobado.",
+                "en": "If you had studied more, you would have passed."
+            },
+            {
+                "es": "Me hubiera gustado ir a la fiesta, pero estaba enfermo.",
+                "en": "I would have liked to go to the party, but I was ill."
+            },
+            {
+                "es": "Deberías haber llamado antes de venir.",
+                "en": "You should have called before you came."
+            },
+            {
+                "es": "El informe debe ser entregado mañana por la mañana.",
+                "en": "The report must be handed in by tomorrow morning."
+            },
+            {
+                "es": "Me dijeron que esperara fuera.",
+                "en": "I was told to wait outside."
+            },
+            {
+                "es": "Se cree que la empresa está en problemas financieros.",
+                "en": "The company is thought to be in financial trouble."
+            },
+            {
+                "es": "No se me permite usar el coche de mi padre.",
+                "en": "I am not allowed to use my father's car."
+            },
+            {
+                "es": "Me hicieron limpiar mi habitación.",
+                "en": "They made me clean my room."
+            },
+            {
+                "es": "Déjame ayudarte con eso.",
+                "en": "Let me help you with that."
+            },
+            {
+                "es": "Estoy pensando en cambiar de trabajo.",
+                "en": "I am thinking of changing my job."
+            },
+            {
+                "es": "Ella me acusó de romper la ventana.",
+                "en": "She accused me of breaking the window."
+            },
+            {
+                "es": "Le felicité por aprobar su examen de conducir.",
+                "en": "I congratulated him on passing his driving test."
+            },
+            {
+                "es": "Gracias por invitarme a tu fiesta.",
+                "en": "Thank you for inviting me to your party."
+            },
+            {
+                "es": "Se disculpó por llegar tarde.",
+                "en": "He apologised for being late."
+            },
+            {
+                "es": "Insistió en pagar la cuenta.",
+                "en": "She insisted on paying the bill."
+            },
+            {
+                "es": "Sueño con vivir en un país cálido.",
+                "en": "I dream of living in a hot country."
+            },
+            {
+                "es": "Logró terminar el maratón.",
+                "en": "He succeeded in finishing the marathon."
+            },
+            {
+                "es": "No apruebo tu comportamiento.",
+                "en": "I don't approve of your behaviour."
+            },
+            {
+                "es": "Depende del tiempo si salimos o no.",
+                "en": "It depends on the weather whether we go out or not."
+            },
+            {
+                "es": "No te preocupes por mí, estaré bien.",
+                "en": "Don't worry about me, I'll be fine."
+            },
+            {
+                "es": "Me recordó que tenía una cita con el dentista.",
+                "en": "He reminded me that I had a dentist appointment."
+            },
+            {
+                "es": "Esta sopa sabe un poco rara.",
+                "en": "This soup tastes a bit strange."
+            },
+            {
+                "es": "Ese perfume huele de maravilla.",
+                "en": "That perfume smells wonderful."
+            },
+            {
+                "es": "Tu nuevo corte de pelo te queda genial.",
+                "en": "Your new haircut looks great."
+            },
+            {
+                "es": "La música suena demasiado alta.",
+                "en": "The music sounds too loud."
+            },
+            {
+                "es": "Esta toalla se siente muy suave.",
+                "en": "This towel feels very soft."
+            },
+            {
+                "es": "Poco a poco, mi inglés está mejorando.",
+                "en": "Little by little, my English is getting better."
+            },
+            {
+                "es": "Tarde o temprano, tendrás que tomar una decisión.",
+                "en": "Sooner or later, you will have to make a decision."
+            },
+            {
+                "es": "De vez en cuando, me gusta ir al cine solo.",
+                "en": "From time to time, I like to go to the cinema alone."
+            },
+            {
+                "es": "En general, estoy contento con mi progreso.",
+                "en": "In general, I am happy with my progress."
+            },
+            {
+                "es": "Por cierto, ¿viste el partido anoche?",
+                "en": "By the way, did you see the match last night?"
+            },
+            {
+                "es": "Al final, decidimos quedarnos en casa.",
+                "en": "In the end, we decided to stay at home."
+            },
+            {
+                "es": "Al principio, me pareció difícil, pero ahora es más fácil.",
+                "en": "At first, I found it difficult, but now it's easier."
+            },
+            {
+                "es": "Me llevó mucho tiempo encontrar un trabajo.",
+                "en": "It took me a long time to find a job."
+            },
+            {
+                "es": "Está a unos diez minutos a pie desde aquí.",
+                "en": "It's about a ten-minute walk from here."
+            },
+            {
+                "es": "Tengo algo importante que decirte.",
+                "en": "I have something important to tell you."
+            },
+            {
+                "es": "No hay ningún sitio a donde ir esta noche.",
+                "en": "There is nowhere to go tonight."
+            },
+            {
+                "es": "¿Hay alguien en casa?",
+                "en": "Is there anybody at home?"
+            },
+            {
+                "es": "No le dije nada a nadie.",
+                "en": "I didn't tell anyone anything."
+            },
+            {
+                "es": "Todo el mundo cometió errores.",
+                "en": "Everybody made mistakes."
+            },
+            {
+                "es": "El uno al otro",
+                "en": "Each other"
+            },
+            {
+                "es": "Nos ayudamos el uno al otro con los deberes.",
+                "en": "We help each other with homework."
+            },
+            {
+                "es": "Se conocen desde hace mucho tiempo.",
+                "en": "They have known one another for a long time."
+            }
+        ]
+}
